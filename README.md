@@ -1,4 +1,7 @@
 # DALL-E: Creating Images from Text
+
+[![hackmd-github-sync-badge](https://hackmd.io/usp9PiUGRdGQzD93wE8Bsw/badge)](https://hackmd.io/usp9PiUGRdGQzD93wE8Bsw)
+
 A neural network that creates images from text captions. 
 ![](https://i.imgur.com/FosonFM.jpg)
 
